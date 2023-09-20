@@ -1,6 +1,6 @@
-# petfinder
+# Petfinder
 
-Projeto realizado durante o curso Node.
+Projeto realizado durante o módulo Node do curso de Desenvolvimento da B7 Web.
 
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript ts-node`
@@ -8,5 +8,5 @@ Projeto realizado durante o curso Node.
 ### Instalação
 `npm install`
 
-### Para rodar
+### Iniciar
 `npm run start-dev`
